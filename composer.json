@@ -2,6 +2,7 @@
     "name": "rcngl/console",
     "description": "simple console framework to allow user to add custom command to run php classes.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Rcngl\\Console\\": "Terminal/"
