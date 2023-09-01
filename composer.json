@@ -1,0 +1,19 @@
+{
+    "name": "rcngl/console",
+    "description": "simple console framework to allow user to add custom command to run php classes.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rcngl\\Console\\": "Terminal/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jsh24",
+            "email": "jsh24.rcngl@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
